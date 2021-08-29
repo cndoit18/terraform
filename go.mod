@@ -133,7 +133,7 @@ require (
 	github.com/satori/go.uuid v1.2.0 // indirect
 	github.com/smartystreets/assertions v0.0.0-20180927180507-b2de0cb4f26d // indirect
 	github.com/smartystreets/goconvey v0.0.0-20180222194500-ef6db91d284a // indirect
-	github.com/spf13/afero v1.2.2
+	github.com/spf13/afero v1.6.0
 	github.com/spf13/pflag v1.0.3 // indirect
 	github.com/tencentcloud/tencentcloud-sdk-go v0.0.0-20190816164403-f8fa457a3c72
 	github.com/tencentyun/cos-go-sdk-v5 v0.0.0-20190808065407-f07404cefc8c
